@@ -103,7 +103,7 @@ body{
     }
     .list-box h1{
         padding-top:12px;
-        font-size: 15px;
+        font-size: 20px;
     }
 
     #inner-box{
@@ -116,25 +116,25 @@ body{
         padding:5px;
     }
     #content h3{
-        font-size: 10px;
+        font-size: 15px;
     }
 
     #buttons i{
-        font-size:10px;
+        font-size:15px;
     }
     .input-box{
         margin:2px auto;
     }
     .input-box input{
-        font-size: 8px;
+        font-size: 17px;
         padding:2px 2px;
         margin:2px auto;
     }
     .input-box i{
-        font-size: 10px;
+        font-size: 19px;
     }
     #inner-box h2{
-        font-size: 13px;
+        font-size: 18px;
         padding:10px
     }
     #add{
