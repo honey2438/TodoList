@@ -95,5 +95,51 @@ body{
     border:1px solid rgb(255, 89, 116);
 }
 
+@media (max-width:1000px){
+    .list-box{
+        width:80%;
+        height:450px;
+        margin:15px auto;
+    }
+    .list-box h1{
+        padding-top:12px;
+        font-size: 15px;
+    }
 
+    #inner-box{
+        width:90%;
+        height:75%;
+        margin:15px auto;
+    }
+
+    .item{
+        padding:5px;
+    }
+    #content h3{
+        font-size: 10px;
+    }
+
+    #buttons i{
+        font-size:10px;
+    }
+    .input-box{
+        margin:2px auto;
+    }
+    .input-box input{
+        font-size: 8px;
+        padding:2px 2px;
+        margin:2px auto;
+    }
+    .input-box i{
+        font-size: 10px;
+    }
+    #inner-box h2{
+        font-size: 13px;
+        padding:10px
+    }
+    #add{
+        width:20px;
+        height:20px;
+    }
+}
 
